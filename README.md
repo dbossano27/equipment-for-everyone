@@ -1,4 +1,4 @@
-# hello-world
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,11 +37,7 @@ and is wrapped around the whole page content, except for the footer in this exam
     </div>
 
     <div class="w3-container">
-      <p>At Equipment for Everyone, we believe every child deserves the chance to play. Too many kids miss out on sports simply because they lack the gear. We’re here to change that.
-
-Founded by a group of athletes, coaches, and parents, we collect and donate new and gently used sports equipment to children in need. Our goal is simple; level the playing field and give every child the opportunity to grow, compete, and belong, on and off the field.
-
-Because every child deserves a chance to play.
+      <p> At Equipment for Everyone, we believe every child deserves the chance to play. Too many kids miss out on sports simply because they lack the gear. We’re here to change that. Founded by a group of athletes, coaches, and parents, we collect and donate new and gently used sports equipment to children in need. Our goal is simple; level the playing field and give every child the opportunity to grow, compete, and belong, on and off the field. Because every child deserves a chance to play.
 
  </p>
       <div class="w3-row">
@@ -69,7 +65,7 @@ Because every child deserves a chance to play.
 
 
 Team Sports:
-Soccer- 
+Soccer; 
 
 Balls (size 3–5)
 
@@ -79,7 +75,7 @@ Cleats
 
 Goalkeeper gloves
 
-Basketball- 
+Basketball;
 
 Basketballs (youth and regulation size)
 
@@ -87,7 +83,7 @@ Shoes
 
 Jerseys and shorts
 
-Baseball & Softball- 
+Baseball & Softball; 
 
 Gloves/mitts (all sizes)
 
@@ -99,7 +95,7 @@ Baseballs and softballs
 
 Cleats
 
-Football- 
+Football;
 
 Shoulder pads
 
@@ -110,7 +106,7 @@ Cleats
 Footballs
 
 Action & Seasonal Sports:
-Hockey- 
+Hockey;
 
 Sticks
 
@@ -122,7 +118,7 @@ Pads and gloves
 
 Goalie gear
 
-Lacrosse- 
+Lacrosse;
 
 Sticks
 
@@ -132,7 +128,7 @@ Pads and gloves
 
 Balls
 
-Track & Field- 
+Track & Field; 
 
 Spikes
 
@@ -152,7 +148,7 @@ Protective gear
 
 Individual Sports:
 
-Tennis & Pickleball- 
+Tennis & Pickleball; 
 
 Racquets
 
@@ -160,7 +156,7 @@ Balls
 
 Nets
 
-Golf- 
+Golf;
 
 Junior clubs
 
@@ -170,7 +166,7 @@ Balls
 
 Tees
 
-Martial Arts & Fitness- 
+Martial Arts & Fitness; 
 
 Training pads
 
